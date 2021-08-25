@@ -10,7 +10,7 @@
   <img align="center" alt="Thiago-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Thiago-yoda" src="https://media.discordapp.net/attachments/776534731654823961/880184855734931516/ezgif-6-6ebfcc5838dd.gif?width=443&height=443">
+  <img align="right" alt="Thiago-yoda" src="https://media.discordapp.net/attachments/776534731654823961/880184855734931516/ezgif-6-6ebfcc5838dd.gif?width=200&height=200">
 </div>
   
 ##
