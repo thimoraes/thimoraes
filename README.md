@@ -1,4 +1,4 @@
-<h1 align="center">Hi traveler, I'm Thiago Moraes 🌱</h1>
+## Hi traveler, I'm Thiago Moraes 🌱
 <div>
   <a href="https://github.com/thimoraes">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thimoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
