@@ -1,4 +1,6 @@
-### Olá, me chamo Thiago Moraes!!
+### Olá, me chamo Thiago Moraes! 🌱
+
+##
 
 <div>
   <a href="https://github.com/thimoraes">
